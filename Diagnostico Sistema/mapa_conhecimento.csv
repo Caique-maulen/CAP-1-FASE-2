@@ -1,0 +1,31 @@
+Sintoma 1,Sintoma 2,Sintoma 3,Doença Associada
+dor no peito,aperto no tórax,irradiação para o braço esquerdo,Infarto do Miocárdio
+dor no peito,aperto no tórax,suor frio,Infarto do Miocárdio
+dor no peito,falta de ar,suor frio,Infarto do Miocárdio
+cansaço constante,fadiga,falta de energia,Insuficiência Cardíaca
+cansaço constante,fadiga,inchaço nas pernas,Insuficiência Cardíaca
+falta de ar,dificuldade para respirar,piora ao deitar,Insuficiência Cardíaca
+falta de ar,dificuldade para respirar,dor no peito,Angina
+pressão no peito,dor ao esforço,alívio com repouso,Angina
+pressão no peito,falta de ar,formigamento nos braços,Angina
+dor de cabeça intensa,pressão alta,visão embaçada,Hipertensão Arterial
+dor de cabeça latejante,tontura,pressão alta,Hipertensão Arterial
+visão embaçada,tontura,pressão alta,Hipertensão Arterial
+palpitações,coração acelerado,suor,Arritmia Cardíaca
+palpitações,coração dispara,nervosismo,Arritmia Cardíaca
+coração irregular,palpitações,tontura,Arritmia Cardíaca
+inchaço nas pernas,inchaço nos tornozelos,aumento de peso,Insuficiência Cardíaca Congestiva
+inchaço nos tornozelos,pressão no abdômen,dificuldade para respirar,Insuficiência Cardíaca Congestiva
+pernas inchadas,falta de ar ao deitar,fadiga,Insuficiência Cardíaca Congestiva
+dor nas pernas ao caminhar,alívio com repouso,pernas frias,Doença Arterial Periférica
+dor nas panturrilhas,pernas pesadas,claudicação,Doença Arterial Periférica
+pernas frias,formigamento nas pernas,dor ao caminhar,Doença Arterial Periférica
+tontura,desmaio,coração para,Bloqueio Cardíaco
+síncope,confusão mental,fraqueza,Bloqueio Cardíaco
+desmaio repentino,coração irregular,tontura,Bloqueio Cardíaco
+suor noturno,perda de apetite,fraqueza geral,Endocardite
+náusea,fadiga,coração irregular,Endocardite
+febre,fraqueza,coração irregular,Endocardite
+pressão no peito por estresse,falta de ar,formigamento,Síndrome do Pânico Cardíaco
+ansiedade,palpitações,falta de ar,Síndrome do Pânico Cardíaco
+episódios de pressão no peito,formigamento nos braços,curta duração,Síndrome do Pânico Cardíaco
